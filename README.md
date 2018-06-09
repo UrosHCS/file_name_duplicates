@@ -1,4 +1,4 @@
 # file_name_duplicates
-Python script that writes paths to files with same names to a text file.
-Change the variable directory_to_walk to a path you want.
+Python script that writes paths to files with same names and sizes similar to 1% to a text file.
+Pass the dir you want to walk as an argument. Otherwise the dir is the current dir.
 Add items to file_names_to_skip list with file names you want to... skip...
